@@ -1,0 +1,5 @@
+<menu xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android"><item android:id="@+id/menu_home" android:enabled="true" android:icon="@mipmap/home" app:showAsAction="ifRoom" /><item android:id="@+id/menu_favoritos" android:enabled="true" android:icon="@mipmap/star" app:showAsAction="ifRoom" /><!--<item
+      android:id="@+id/menu_video"
+      android:enabled="true"
+      android:icon="@drawable/ic_action_videocam"
+      app:showAsAction="ifRoom" />--></menu>

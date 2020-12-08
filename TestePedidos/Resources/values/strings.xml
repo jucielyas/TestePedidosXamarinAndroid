@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TestePedidos</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="fragment1">This is the first tab.</string>
+    <string name="fragment2">This is the second tab.</string>
+    <string name="fragment3">This is the third tab.</string>
+    <string name="tab1_title">Tab1</string>
+    <string name="tab2_title">Favoritos</string>
+    <string name="tab3_title">Tab3</string>
+</resources>

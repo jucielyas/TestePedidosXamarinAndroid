@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+  <item>
+    <bitmap android:src="@mipmap/iconadd"/>
+  </item>
+  <item>
+    <shape xmlns:android="http://schemas.android.com/apk/res/android">
+      <gradient android:angle="90" android:startColor="#228B22" android:centerColor="#228B22" android:endColor="#228B22"/>
+      <corners
+        android:radius="5dp"   >
+      </corners>
+      <size android:height="30dp" android:width="40dp"></size>
+    </shape>
+  </item>
+</layer-list>
